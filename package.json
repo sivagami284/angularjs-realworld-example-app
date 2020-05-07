@@ -5,7 +5,7 @@
   "author": "Thinkster",
   "license": "MIT",
   "scripts": {
-    "sonar": "sonar-scanner"
+    "sonar": "sonar-scanner",
 }
   "dependencies": {
     "angular": "^1.5.0-rc.2",
