@@ -22,7 +22,7 @@
     "merge-stream": "^1.0.0",
     "vinyl-source-stream": "^1.1.0"
   }
-   "scripts": {
-      "sonar": "sonar-scanner"
+  "scripts": {
+    "sonar": "sonar-scanner"
 }
 }
