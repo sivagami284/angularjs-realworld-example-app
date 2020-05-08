@@ -79,6 +79,7 @@
     "sonar-runner"
   ],
   "scripts": {
+    "sonar-scanner": "/var/lib/jenkins/workspace/sonar-demo/node_modules/sonar-scanner/bin/sonar-scanner"
     "test": "npx nyc mocha",
     "ci": "npm run test && node ci-analysis.js"
   }
